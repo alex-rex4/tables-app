@@ -22,6 +22,11 @@
   background-color:rgb(224, 222, 102);
   margin: 10px;
 }
+.menuButton {
+  flex-direction:column;
+  margin: 5px;
+  padding: 5px;
+}
 
 .Separator {
   width: 0px;
